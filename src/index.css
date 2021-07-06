@@ -1,0 +1,12 @@
+html{
+  box-sizing: border-box;
+}
+*::after,*::before{
+  box-sizing: inherit;
+}
+html,body,#root{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+  padding: 0;
+  margin: 0;
+}

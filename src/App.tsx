@@ -1,0 +1,11 @@
+import * as React from 'react';
+import LandingPage from './Pages/LandingPage/LandingPage';
+function App() {
+  return (
+    <div>
+      <LandingPage />
+    </div>
+  );
+}
+
+export default App;
